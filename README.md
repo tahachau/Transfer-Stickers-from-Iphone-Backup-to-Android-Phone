@@ -40,10 +40,10 @@ Step 7: open a terminal for the file and run the following code " python -m pip 
 Step 8: Create a folder in your files called "stickers verified"
 
 
-Step 9: In the python file loo at these lines:
+Step 9: In the python file look at these lines:
 BACKUP_PATH = r"D:\Apple Computer\MobileSync\Backup\00008110-001202840EEB801E"
-FILELIST_PATH = r"C:\Users\Ironnix\Downloads\sticker_fileIDs.txt"  # text file with fileIDs pasted
-OUTPUT_PATH = r"C:\Users\Ironnix\Documents\stickers verified"
+FILELIST_PATH = r"C:\Users\oof\Downloads\sticker_fileIDs.txt"  # text file with fileIDs pasted
+OUTPUT_PATH = r"C:\Users\oof\Documents\stickers verified"
 copy paste the file paths first back up is where your iphone backup is located, second file list is the .txt file where the names of all the sticker files are, and third output path is the path of the "stickers verified" folder I just had you create.
 
 
