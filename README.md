@@ -10,7 +10,9 @@ What my program does it that it takes the .txt file and searches all the files i
 You'll need the following:
 
 -Your Iphone backup from itunes (unencrypted, for this just back up and select the option to not encrypt the backup)
+
 -An IDE program, a program that can run code you've written
+
 -An SQL program, preferably SQL lite, you can look it up online and download it
 
 Step 1: Perform a back up of your iphone on itunes. Select the option for the backup to not be encrypted.
